@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My Projects Page
 
-You can use the [editor on GitHub](https://github.com/andyh98/andyh98.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here are some of the projects I have worked on in the past and am currently working on:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Live Pen](https://andyh98.github.io/Live_Pen/): A whiteboard tool developed using Canvas
+[Color Glow](https://andyh98.github.io/Color_Glow): My first project using Canvas. A visual resembling stadium lights that is entertaining to click through.
 
 ### Markdown
 
