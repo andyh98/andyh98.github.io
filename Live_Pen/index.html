@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Live Pen</title>
+  </head>
+  <body>
+
+    <header>
+      <h1>Live Pen</h1>
+      <h2>Andy Hameed</h2>
+    </header>
+
+    <div class="penDiv">
+      <img src="images/pen_body.png" alt="pen body" id="pen_body">
+      <img src="images/pen.png" alt="pen" id="pen">
+    </div>
+
+    <div class="color_palette">
+      <div id="blue" class="color" style ="background-color: #247BA0;"></div>
+      <div id="lightblue" class="color" style ="background-color: #70C1B3;"></div>
+      <div id="skyblue" class="color" style ="background-color: #B2DBBF;"></div>
+      <div id="grey" class="color" style ="background-color: #F3FFBD;"></div>
+      <div id="red" class="color" style ="background-color: #D05237;"></div>
+    </div>
+
+
+    <canvas id="canvas"> Sorry your browser does not support HTML Canvas</canvas>
+    <canvas id="drawing_board"></canvas>
+    <button id="btn">Clear Canvas</button>
+    <script type="text/javascript" src ="javascripts/animation.js"></script>
+    <script type="text/javascript" src ="javascripts/draw_board.js"></script>
+    <script type="text/javascript" src ="javascripts/palette.js"></script>
+  </body>
+</html>
