@@ -2,7 +2,7 @@
 
 Here are some of the projects I have worked on in the past and am currently working on:
 
-[Live Pen](https://andyh98.github.io/Live_Pen/): A whiteboard tool developed using Canvas
+[Live Pen](https://andyh98.github.io/Live_Pen/): A whiteboard tool developed using HTML Canvas
 
-[Color Glow](https://andyh98.github.io/Color_Glow): My first project using Canvas. A visual resembling stadium lights that is entertaining to click through.
+[Color Glow](https://andyh98.github.io/Color_Glow): My first project using HTML Canvas. A visual resembling stadium lights that can be clicked through.
 
