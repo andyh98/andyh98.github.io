@@ -15,3 +15,5 @@ Here are some of the projects I have been working on using HTML, CSS and Javascr
 [JavaScript](https://www.sololearn.com/Certificate/1024-15680305/pdf//)
 
 [jQuery](https://www.sololearn.com/Certificate/1082-15680305/pdf/)
+
+[PHP](https://www.sololearn.com/Certificate/1059-15680305/pdf/)
