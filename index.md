@@ -1,10 +1,16 @@
 ## Projects
 
+[ReFlect](https://murmuring-forest-00201.herokuapp.com/): Digital journaling app with a journaling prompt feature to spark an interesting jounral entry. The app was created using Flask microframework with a PostgreSQL database and deployed through Heroku.
+
+### HTML, CSS & Vanilla JS
+
 Here are some of the projects I have been working on using HTML, CSS and Javascript. These were completed without the use of any front-end frameworks or external API's, for the sake of learning the fundamentals of front-end scripting. Any images included have been created by myself using Adobe Illustrator (Ex. The pen in Live Pen tool).
 
 [Live Pen](https://andyh98.github.io/Live_Pen/): A whiteboard tool developed using HTML Canvas
 
 [Color Glow](https://andyh98.github.io/Color_Glow): My first project using HTML Canvas. A visual resembling stadium lights that can be clicked through.
+
+
 
 ## Certificates
 
