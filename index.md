@@ -1,6 +1,6 @@
 ## Projects
 
-[ReFlect](https://murmuring-forest-00201.herokuapp.com/): Digital journaling app with a journaling prompt feature to spark an interesting jounral entry. The app was created using Flask microframework with a PostgreSQL database and deployed through Heroku.
+[ReFlect](https://murmuring-forest-00201.herokuapp.com/): Digital journaling app with a journaling prompt feature to spark an interesting journal entry. The app was created using Flask microframework with a PostgreSQL database and deployed through Heroku.
 
 ### HTML, CSS & Vanilla JS
 
