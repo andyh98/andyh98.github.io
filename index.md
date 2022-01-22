@@ -1,5 +1,7 @@
 ## Projects
 
+[ScreenIt](https://github.com/ScreenIt-Inc/ScreenIt): A contactless customer screening and contact tracing system for business to operate safely during a pandemic. My team and I worked on ScreenIt over the span of 8 months taking on tasks encompassing the entire software lifecycle, from design to deployment
+
 [ReFlect](https://murmuring-forest-00201.herokuapp.com/): Digital journaling app with a journaling prompt feature to spark an interesting journal entry. The app was created using Flask microframework with a PostgreSQL database and deployed through Heroku.
 
 ### HTML, CSS & Vanilla JS
