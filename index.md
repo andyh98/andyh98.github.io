@@ -4,7 +4,7 @@
 
 [ReFlect](https://murmuring-forest-00201.herokuapp.com/): Digital journaling app with a journaling prompt feature to spark an interesting journal entry. The app was created using Flask microframework with a PostgreSQL database and deployed through Heroku.
 
-### HTML, CSS & Vanilla JS
+### HTML, CSS & JS
 
 Here are some of the projects I have been working on using HTML, CSS and Javascript. These were completed without the use of any front-end frameworks or external API's, for the sake of learning the fundamentals of front-end scripting. Any images included have been created by myself using Adobe Illustrator (Ex. The pen in Live Pen tool).
 
