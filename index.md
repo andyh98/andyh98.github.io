@@ -6,7 +6,7 @@
 
 ### HTML, CSS & JS
 
-Here are some of the projects I have been working on using HTML, CSS and Javascript. These were completed without the use of any front-end frameworks or external API's, for the sake of learning the fundamentals of front-end scripting. Any images included have been created by myself using Adobe Illustrator (Ex. The pen in Live Pen tool).
+These were completed without the use of any front-end frameworks or external API's, for the sake of learning the fundamentals of frontend development. Any images included have been created by myself using Adobe Illustrator (Ex. The pen in Live Pen tool).
 
 [Live Pen](https://andyh98.github.io/Live_Pen/): A whiteboard tool developed using HTML Canvas
 
